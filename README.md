@@ -1,1 +1,2 @@
-# ChatGPT trained to predict prime numbers (uses a PyTorch generator dataset)
+# ChatGPT 
+## trained to predict prime numbers (uses a PyTorch generator dataset)
